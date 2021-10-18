@@ -3,6 +3,16 @@ entries:
   app1:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2021-10-18T08:38:52.41037288Z"
+    description: A Helm chart for Kubernetes
+    digest: fce6e0ecd7dd418ad7c34049d3384bcc0a10cd726fc9c5100493706f70811182
+    name: app1
+    type: application
+    urls:
+    - https://github.com/vinodmallare/helm-repo/releases/download/app1-0.101.0/app1-0.101.0.tgz
+    version: 0.101.0
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2021-10-18T08:36:55.585166809Z"
     description: A Helm chart for Kubernetes
     digest: 59f504dc832dbf1ce331403d18d00304a9d0c75cff24f0d40981e9b66f193bdc
@@ -12,6 +22,16 @@ entries:
     - https://github.com/vinodmallare/helm-repo/releases/download/app1-0.1.0/app1-0.1.0.tgz
     version: 0.1.0
   nginx:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-10-18T08:38:52.549747239Z"
+    description: A Helm chart for Kubernetes
+    digest: 4b8c992d99c6064c85c698b450195431e3edb20f414f30388b35f07ee3fd77f7
+    name: nginx
+    type: application
+    urls:
+    - https://github.com/vinodmallare/helm-repo/releases/download/nginx-0.100.0/nginx-0.100.0.tgz
+    version: 0.100.0
   - apiVersion: v2
     appVersion: 1.16.0
     created: "2021-10-18T08:36:55.770473047Z"
