@@ -24,6 +24,16 @@ entries:
   nginx:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2021-10-18T09:16:15.906423572Z"
+    description: A Helm chart for Kubernetes
+    digest: 175302b73a0cd601b9f2a7f6e98d38dde33e24c75e2539c691d2d5b3a3c3ef79
+    name: nginx
+    type: application
+    urls:
+    - https://github.com/vinodmallare/helm-repo/releases/download/nginx-0.101.2/nginx-0.101.2.tgz
+    version: 0.101.2
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2021-10-18T09:08:23.763728127Z"
     description: A Helm chart for Kubernetes
     digest: b3a6ec9826c55ffa1ad7e6bb2ae2cd2e7ede1f3f08a730e3d768f499c30e0147
